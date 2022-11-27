@@ -1,0 +1,5 @@
+name: JoinNoticeUsingDiscord
+version: '${project.version}'
+main: me.junah.joinnoticeusingdiscord.JoinNoticeUsingDiscord
+api-version: 1.19
+authors: [ junah201 ]
